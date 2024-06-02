@@ -81,12 +81,6 @@ a:link{
     bottom: 0;
     max-height: 500px;
 }
-.line{
-    display: inline-flex
-    left: 30%;
-    color:white;
-    word-spacing: 70px;
-}
 .skill{
     position:absolute;
     z-index:-1;
