@@ -1,6 +1,5 @@
 body{
     background:transparent;
-    font-size:10px;
     overflow-x:hidden;
     overflow-y: scroll;
     box-sizing: border-box;
@@ -24,6 +23,7 @@ body{
     display:flex;
     justify-content: center;
     justify-content:space-evenly;
+    font-size:10px;
 }
 a:link{
     z-index: 1;
